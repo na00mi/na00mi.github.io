@@ -16,10 +16,8 @@ layout: page
 	<li>etc : Django, Android</li>
 </ul>
 
-#<h2>Projects</h2>
+<h2>My private blog</h2>
 
-#<ul>
-#	<li><a href="https://github.com/">Lorem Lorem</a></li>
-#	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-#	<li><a href="https://github.com/">Dolor Lorem</a></li>
-#</ul>
+<ul>
+	<li><a href="https://blog.naver.com/knh8772">My blog</a></li>
+</ul>
